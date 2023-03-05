@@ -1,0 +1,25 @@
+.input-taken{
+    border: 1px solid black;
+}
+
+#input-section{
+    margin-top: 25px;
+    margin-bottom: 15px;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.input-text{
+    border: 4px solid #d3d6da;
+    margin-bottom: 15px;
+    margin-right: 8px;
+    max-width: 60px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.sucess{
+    background-color: green;
+}
